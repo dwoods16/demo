@@ -1,0 +1,8 @@
+{
+    "FactorialMainPage": {
+        "descriptionText": "h1[class='margin-base-vertical text-center']",
+        "integerField": "#number",
+        "calculateButton": "#getFactorial",
+        "resultText": "#resultDiv"
+    }
+}
